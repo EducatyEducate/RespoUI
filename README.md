@@ -18,7 +18,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://e-coders.me"><img src="https://avatars.githubusercontent.com/u/83082760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>E - Coders (Aasheesh Agarwal)</b></sub></a><br /><a href="https://github.com/EducatyEducate/RespoUI/commits?author=e-coders" title="Documentation">📖</a> <a href="https://github.com/EducatyEducate/RespoUI/commits?author=e-coders" title="Code">💻</a> <a href="https://github.com/EducatyEducate/RespoUI/issues?q=author%3Ae-coders" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://e-coders.me"><img src="https://avatars.githubusercontent.com/u/83082760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>E - Coders (Aasheesh Agarwal)</b></sub></a><br /><a href="https://github.com/EducatyEducate/RespoUI/commits?author=e-coders" title="Documentation">📖</a> <a href="https://github.com/EducatyEducate/RespoUI/commits?author=e-coders" title="Code">💻</a> <a href="https://github.com/EducatyEducate/RespoUI/issues?q=author%3Ae-coders" title="Bug reports">🐛</a> <a href="#tutorial-e-coders" title="Tutorials">✅</a> <a href="https://github.com/EducatyEducate/RespoUI/commits?author=e-coders" title="Tests">⚠️</a></td>
   </tr>
 </table>
 

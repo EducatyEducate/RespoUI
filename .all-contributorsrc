@@ -13,7 +13,9 @@
       "contributions": [
         "doc",
         "code",
-        "bug"
+        "bug",
+        "tutorial",
+        "test"
       ]
     }
   ],
