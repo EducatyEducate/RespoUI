@@ -1,6 +1,4 @@
-<center>
-  ![07670081-82f2-4e7a-b964-e26ed72891b6-removebg-preview](https://user-images.githubusercontent.com/83082760/161712777-613bfadd-ed0c-4a02-8e60-5e1b7fa12961.png)Respo UI
-</center>
+<center><img src="https://user-images.githubusercontent.com/83082760/161712777-613bfadd-ed0c-4a02-8e60-5e1b7fa12961.png"><h2>Respo UI</h2></center>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
